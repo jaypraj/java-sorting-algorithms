@@ -1,4 +1,4 @@
-package com.jaypraj;
+package com.jaypraj.algorithms.sorting;
 
 import java.util.Arrays;
 import java.util.Collections;
